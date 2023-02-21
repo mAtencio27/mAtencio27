@@ -1,6 +1,4 @@
-### Hi there, I'm Marcus 👋
-
-<h1 align="center">Hi 👋, I'm <a href="https://www.marcusatencio.com/" target="blank">
+<h1 align="center">Hello 👋, I'm <a href="https://www.marcusatencio.com/" target="blank">
 Marcus</a></h1>
 <h3 align="center">A passionate Full-Stack Developer from America based in Tokyo</h3>
 
