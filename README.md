@@ -20,7 +20,7 @@ Marcus</a></h1>
 
 - 📫 How to reach me **mAtencio270@gmail.com**
 
-- 📄 Know about my experiences and projects <a href="https://www.marcusatencio.com/" target="blank">Resume</a>
+- 📄 Know about my experiences and projects <a href="https://www.marcusatencio.com/" target="blank">Portfolio</a>
 <br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -30,13 +30,10 @@ Marcus</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marcus-atencio/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-   
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mAtencio27">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-   
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/marcus_atencio_/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-   
 </p>
 
 <!--
