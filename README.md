@@ -6,7 +6,7 @@ Marcus</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.codechrysalis.io/" target="blank">Code Chrysalis</a>
+- 🔭 I’m currently working at WhiteSquare
 
 - 🌱 I’m currently Working on Web 3 development 
 
